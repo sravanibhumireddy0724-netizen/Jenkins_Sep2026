@@ -1,0 +1,26 @@
+{
+  "name": "git_practicesessions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.4.0"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sravanibhumireddy0724-netizen/GIT_PracticeSessions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sravanibhumireddy0724-netizen/GIT_PracticeSessions/issues"
+  },
+  "homepage": "https://github.com/sravanibhumireddy0724-netizen/GIT_PracticeSessions#readme"
+}
